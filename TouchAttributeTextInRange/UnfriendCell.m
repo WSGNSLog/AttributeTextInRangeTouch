@@ -3,7 +3,7 @@
 //  UnfriendCell.m
 //  iMyLife
 //
-//  Created by wuxue on 16/8/23.
+//  Created by wsg on 16/8/23.
 //  Copyright © 2016年 Andon. All rights reserved.
 //
 

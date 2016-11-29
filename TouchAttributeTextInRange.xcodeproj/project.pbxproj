@@ -446,7 +446,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TouchAttributeTextInRange/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jiuan.test.TouchAttributeTextInRange;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wsg.test.TouchAttributeTextInRange;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -457,7 +457,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = TouchAttributeTextInRange/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jiuan.test.TouchAttributeTextInRange;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wsg.test.TouchAttributeTextInRange;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -527,6 +527,7 @@
 				E517CD2D1DED27C800C920DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E517CD2E1DED27C800C920DA /* Build configuration list for PBXNativeTarget "TouchAttributeTextInRangeTests" */ = {
 			isa = XCConfigurationList;
@@ -535,6 +536,7 @@
 				E517CD301DED27C800C920DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E517CD311DED27C800C920DA /* Build configuration list for PBXNativeTarget "TouchAttributeTextInRangeUITests" */ = {
 			isa = XCConfigurationList;
@@ -543,6 +545,7 @@
 				E517CD331DED27C800C920DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
