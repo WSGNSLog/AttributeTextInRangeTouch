@@ -40,7 +40,7 @@ static NSString *const SenderCell = @"unfriendC";
     
     cell.attRange = attRange;
     cell.blueTextTouchBlock = ^(){
-        
+        //蓝色文字点击
         NSLog(@"😁👌😄😁");
     };
     
